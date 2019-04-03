@@ -1,0 +1,414 @@
+Added Component: Designator=C1(LC-0603_C)
+Added Component: Designator=C2(LC-0603_C)
+Added Component: Designator=C3(LC-0603_C)
+Added Component: Designator=C4(CAP-ELECT-TH-6.3X7)
+Added Component: Designator=C5(LC-1210_C)
+Added Component: Designator=C6(LC-0603_C)
+Added Component: Designator=C7(LC-0805_C)
+Added Component: Designator=C8(LC-0805_C)
+Added Component: Designator=C9(LC-0603_C)
+Added Component: Designator=C10(LC-0805_C)
+Added Component: Designator=C11(LC-0603_C)
+Added Component: Designator=C12(LC-0603_C)
+Added Component: Designator=C13(LC-0603_C)
+Added Component: Designator=C14(LC-0603_C)
+Added Component: Designator=C15(LC-0603_C)
+Added Component: Designator=C16(CAP-ELECT-TH-6.3X7)
+Added Component: Designator=C17(0603C)
+Added Component: Designator=C18(0603C)
+Added Component: Designator=C19(LC-0603_C)
+Added Component: Designator=D1(LC-SMA(DO-214AC)_S1)
+Added Component: Designator=D2(LC-SMA(DO-214AC)_S1)
+Added Component: Designator=D3(LC-SMA(DO-214AC)_S1)
+Added Component: Designator=D4(LC-0603_LED_S1)
+Added Component: Designator=D5(1206D)
+Added Component: Designator=D6(1206D)
+Added Component: Designator=F1(AFUSE)
+Added Component: Designator=F2(AFUSE)
+Added Component: Designator=K1(SJ-S-105LMH)
+Added Component: Designator=key1(KEY-2)
+Added Component: Designator=L1(L-10X14)
+Added Component: Designator=LR1(GUANGMIN)
+Added Component: Designator=LS1(BUZZER)
+Added Component: Designator=M1(ACDC_THX208)
+Added Component: Designator=M2(ESP-01&01S Module)
+Added Component: Designator=P1(3.81-2P)
+Added Component: Designator=P2(3.81-2P)
+Added Component: Designator=P3(HDR1X9)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=Q2(SOT-23)
+Added Component: Designator=R1(R-1W-THT)
+Added Component: Designator=R2(LC-0603_R)
+Added Component: Designator=R3(LC-0603_R)
+Added Component: Designator=R4(LC-0603_R)
+Added Component: Designator=R5(LC-0603_R)
+Added Component: Designator=R6(LC-0603_R)
+Added Component: Designator=R7(LC-0603_R)
+Added Component: Designator=R8(LC-0603_R)
+Added Component: Designator=R9(LC-0603_R)
+Added Component: Designator=R10(LC-0603_R)
+Added Component: Designator=R11(LC-0805_R)
+Added Component: Designator=R12(LC-0603_R)
+Added Component: Designator=R13(R2512)
+Added Component: Designator=R14(LC-0805_R)
+Added Component: Designator=R15(0603)
+Added Component: Designator=R16(LC-0603_R)
+Added Component: Designator=R17(LC-0805_R)
+Added Component: Designator=R18(LC-0805_R)
+Added Component: Designator=R19(LC-0805_R)
+Added Component: Designator=R20(LC-0805_R)
+Added Component: Designator=R21(LC-0805_R)
+Added Component: Designator=R22(LC-0805_R)
+Added Component: Designator=R23(LC-0603_R)
+Added Component: Designator=R24(LC-0603_R)
+Added Component: Designator=R25(LC-0603_R)
+Added Component: Designator=R26(LC-0805_R)
+Added Component: Designator=R27(LC-0603_R)
+Added Component: Designator=R28(AXIAL-0.6)
+Added Component: Designator=R29(0603)
+Added Component: Designator=R30(0603)
+Added Component: Designator=R31(LC-0603_R)
+Added Component: Designator=R32(LC-0603_R)
+Added Component: Designator=R33(LC-0805_R)
+Added Component: Designator=R34(LC-0603_R)
+Added Component: Designator=R35(0603)
+Added Component: Designator=R36(0603)
+Added Component: Designator=R37(LC-0603_R)
+Added Component: Designator=U1(LC-SOT-23-5)
+Added Component: Designator=U2(LC-LQFP-48_7x7x05P)
+Added Component: Designator=U3(LC-SOP-8_150mil)
+Added Component: Designator=U4(LC-SMD-4)
+Added Component: Designator=U5(LC-SMD-4)
+Added Component: Designator=U6(SOT-223/P2.3)
+Added Component: Designator=U7(LC-SMD-4)
+Added Component: Designator=USB1(2_USB)
+Added Component: Designator=Y1(49/U_N)
+Added Component: Designator=Y2(0SC_3225)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=AC220V-N Pin=C4-2
+Added Pin To Net: NetName=AC220V-N Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=A+5V Pin=C6-1
+Added Pin To Net: NetName=AC220V-N Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=AC220V-N Pin=C7-2
+Added Pin To Net: NetName=AC220V-N Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=MCUGND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=AC220V-N Pin=C10-2
+Added Pin To Net: NetName=MCUGND Pin=C11-1
+Added Pin To Net: NetName=+3.3V Pin=C11-2
+Added Pin To Net: NetName=OSC32_IN Pin=C12-1
+Added Pin To Net: NetName=MCUGND Pin=C12-2
+Added Pin To Net: NetName=OSC_IN Pin=C13-1
+Added Pin To Net: NetName=MCUGND Pin=C13-2
+Added Pin To Net: NetName=OSC_OUT Pin=C14-1
+Added Pin To Net: NetName=MCUGND Pin=C14-2
+Added Pin To Net: NetName=OSC32_OUT Pin=C15-1
+Added Pin To Net: NetName=MCUGND Pin=C15-2
+Added Pin To Net: NetName=+3.3V Pin=C16-1
+Added Pin To Net: NetName=DGND Pin=C16-2
+Added Pin To Net: NetName=+5V Pin=C17-1
+Added Pin To Net: NetName=DGND Pin=C17-2
+Added Pin To Net: NetName=+3.3V Pin=C18-1
+Added Pin To Net: NetName=DGND Pin=C18-2
+Added Pin To Net: NetName=DGND Pin=C19-1
+Added Pin To Net: NetName=+3.3V Pin=C19-2
+Added Pin To Net: NetName=NetC5_2 Pin=D1-1
+Added Pin To Net: NetName=NetC2_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetC4_1 Pin=D2-2
+Added Pin To Net: NetName=AC220V-N Pin=D3-1
+Added Pin To Net: NetName=NetC2_1 Pin=D3-2
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=DGND Pin=D4-K
+Added Pin To Net: NetName=CTL_PIN Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=+5V Pin=D6-2
+Added Pin To Net: NetName=+5V Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=+5V Pin=F2-1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetD6_1 Pin=K1-1
+Added Pin To Net: NetName=+5V Pin=K1-2
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=AC220V-L Pin=K1-4
+Added Pin To Net: NetName=MCUGND Pin=key1-1
+Added Pin To Net: NetName=NRST Pin=key1-2
+Added Pin To Net: NetName=NetC2_1 Pin=L1-1
+Added Pin To Net: NetName=A+5V Pin=L1-2
+Added Pin To Net: NetName=ADC_IN1 Pin=LR1-1
+Added Pin To Net: NetName=DGND Pin=LR1-2
+Added Pin To Net: NetName=5V Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=AC220V-L Pin=M1-1
+Added Pin To Net: NetName=AC220V-N Pin=M1-2
+Added Pin To Net: NetName=DGND Pin=M1-3
+Added Pin To Net: NetName=+5V Pin=M1-5
+Added Pin To Net: NetName=PB10 Pin=M2-1
+Added Pin To Net: NetName=DGND Pin=M2-4
+Added Pin To Net: NetName=+3.3V Pin=M2-5
+Added Pin To Net: NetName=PB12 Pin=M2-7
+Added Pin To Net: NetName=PB11 Pin=M2-8
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetK1_3 Pin=P1-2
+Added Pin To Net: NetName=AC220V-N Pin=P2-1
+Added Pin To Net: NetName=AC220V-L Pin=P2-2
+Added Pin To Net: NetName=I2C1_SCL Pin=P3-1
+Added Pin To Net: NetName=I2C1_SDA Pin=P3-2
+Added Pin To Net: NetName=USART2_RX Pin=P3-3
+Added Pin To Net: NetName=USART2_TX Pin=P3-4
+Added Pin To Net: NetName=DGND Pin=P3-5
+Added Pin To Net: NetName=SWDIO Pin=P3-6
+Added Pin To Net: NetName=SWCLK Pin=P3-7
+Added Pin To Net: NetName=+3.3V Pin=P3-8
+Added Pin To Net: NetName=NRST Pin=P3-9
+Added Pin To Net: NetName=+3.3V Pin=P4-1
+Added Pin To Net: NetName=PB11 Pin=P4-2
+Added Pin To Net: NetName=PB10 Pin=P4-3
+Added Pin To Net: NetName=DGND Pin=P4-4
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=DGND Pin=Q1-2
+Added Pin To Net: NetName=NetD6_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetLS1_2 Pin=Q2-3
+Added Pin To Net: NetName=AC220V-L Pin=R1-1
+Added Pin To Net: NetName=NetD2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC3_2 Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC3_2 Pin=R3-2
+Added Pin To Net: NetName=+3.3V Pin=R4-1
+Added Pin To Net: NetName=I2C1_SCL Pin=R4-2
+Added Pin To Net: NetName=+3.3V Pin=R5-1
+Added Pin To Net: NetName=I2C1_SDA Pin=R5-2
+Added Pin To Net: NetName=MCUGND Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=I2C1_SCL Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=I2C1_SDA Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=BOOT0 Pin=R9-1
+Added Pin To Net: NetName=MCUGND Pin=R9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R10-1
+Added Pin To Net: NetName=+3.3V Pin=R10-2
+Added Pin To Net: NetName=NetC7_1 Pin=R11-1
+Added Pin To Net: NetName=NetP1_1 Pin=R11-2
+Added Pin To Net: NetName=NetD4_A Pin=R12-1
+Added Pin To Net: NetName=+3.3V Pin=R12-2
+Added Pin To Net: NetName=NetP1_1 Pin=R13-1
+Added Pin To Net: NetName=AC220V-N Pin=R13-2
+Added Pin To Net: NetName=NetC8_2 Pin=R14-1
+Added Pin To Net: NetName=AC220V-N Pin=R14-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R15-1
+Added Pin To Net: NetName=NetD5_2 Pin=R15-2
+Added Pin To Net: NetName=DGND Pin=R16-1
+Added Pin To Net: NetName=MCUGND Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=AC220V-L Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR17_1 Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR18_1 Pin=R19-2
+Added Pin To Net: NetName=NetC10_1 Pin=R20-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-2
+Added Pin To Net: NetName=NetC10_1 Pin=R21-1
+Added Pin To Net: NetName=AC220V-N Pin=R21-2
+Added Pin To Net: NetName=RX Pin=R22-1
+Added Pin To Net: NetName=A+5V Pin=R22-2
+Added Pin To Net: NetName=+3.3V Pin=R23-2
+Added Pin To Net: NetName=+3.3V Pin=R24-2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=+3.3V Pin=R25-2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=A+5V Pin=R26-2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=+3.3V Pin=R27-2
+Added Pin To Net: NetName=ADC_IN8 Pin=R28-1
+Added Pin To Net: NetName=DGND Pin=R28-2
+Added Pin To Net: NetName=NetR27_1 Pin=R29-1
+Added Pin To Net: NetName=PA10 Pin=R29-2
+Added Pin To Net: NetName=PA9 Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=+3.3V Pin=R31-1
+Added Pin To Net: NetName=I2C1_SDA Pin=R31-2
+Added Pin To Net: NetName=+3.3V Pin=R32-1
+Added Pin To Net: NetName=I2C1_SCL Pin=R32-2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=A+5V Pin=R33-2
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=+3.3V Pin=R34-2
+Added Pin To Net: NetName=NetR34_1 Pin=R35-1
+Added Pin To Net: NetName=PA8 Pin=R35-2
+Added Pin To Net: NetName=SPEAK Pin=R36-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R36-2
+Added Pin To Net: NetName=PB12 Pin=R37-1
+Added Pin To Net: NetName=+3.3V Pin=R37-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-3
+Added Pin To Net: NetName=NetC1_1 Pin=U1-4
+Added Pin To Net: NetName=NetC4_1 Pin=U1-5
+Added Pin To Net: NetName=VBAT Pin=U2-1
+Added Pin To Net: NetName=OSC32_IN Pin=U2-3
+Added Pin To Net: NetName=OSC32_OUT Pin=U2-4
+Added Pin To Net: NetName=OSC_IN Pin=U2-5
+Added Pin To Net: NetName=OSC_OUT Pin=U2-6
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Pin To Net: NetName=MCUGND Pin=U2-8
+Added Pin To Net: NetName=+3.3V Pin=U2-9
+Added Pin To Net: NetName=ADC_IN1 Pin=U2-11
+Added Pin To Net: NetName=USART2_TX Pin=U2-12
+Added Pin To Net: NetName=USART2_RX Pin=U2-13
+Added Pin To Net: NetName=ADC_IN8 Pin=U2-18
+Added Pin To Net: NetName=NetR6_2 Pin=U2-20
+Added Pin To Net: NetName=PB10 Pin=U2-21
+Added Pin To Net: NetName=PB11 Pin=U2-22
+Added Pin To Net: NetName=MCUGND Pin=U2-23
+Added Pin To Net: NetName=+3.3V Pin=U2-24
+Added Pin To Net: NetName=PB12 Pin=U2-25
+Added Pin To Net: NetName=SPEAK Pin=U2-28
+Added Pin To Net: NetName=PA8 Pin=U2-29
+Added Pin To Net: NetName=PA9 Pin=U2-30
+Added Pin To Net: NetName=PA10 Pin=U2-31
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Pin To Net: NetName=MCUGND Pin=U2-35
+Added Pin To Net: NetName=+3.3V Pin=U2-36
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Pin To Net: NetName=CTL_PIN Pin=U2-41
+Added Pin To Net: NetName=NetR7_2 Pin=U2-42
+Added Pin To Net: NetName=NetR8_2 Pin=U2-43
+Added Pin To Net: NetName=BOOT0 Pin=U2-44
+Added Pin To Net: NetName=MCUGND Pin=U2-47
+Added Pin To Net: NetName=+3.3V Pin=U2-48
+Added Pin To Net: NetName=A+5V Pin=U3-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-2
+Added Pin To Net: NetName=NetC8_2 Pin=U3-3
+Added Pin To Net: NetName=NetC10_1 Pin=U3-4
+Added Pin To Net: NetName=AC220V-N Pin=U3-5
+Added Pin To Net: NetName=TX Pin=U3-6
+Added Pin To Net: NetName=PF Pin=U3-7
+Added Pin To Net: NetName=RX Pin=U3-8
+Added Pin To Net: NetName=NetR25_1 Pin=U4-1
+Added Pin To Net: NetName=NetR30_2 Pin=U4-2
+Added Pin To Net: NetName=AC220V-N Pin=U4-3
+Added Pin To Net: NetName=RX Pin=U4-4
+Added Pin To Net: NetName=NetR26_1 Pin=U5-1
+Added Pin To Net: NetName=TX Pin=U5-2
+Added Pin To Net: NetName=DGND Pin=U5-3
+Added Pin To Net: NetName=NetR27_1 Pin=U5-4
+Added Pin To Net: NetName=DGND Pin=U6-1
+Added Pin To Net: NetName=+3.3V Pin=U6-2
+Added Pin To Net: NetName=+3.3V Pin=U6-2
+Added Pin To Net: NetName=+5V Pin=U6-3
+Added Pin To Net: NetName=NetR33_1 Pin=U7-1
+Added Pin To Net: NetName=PF Pin=U7-2
+Added Pin To Net: NetName=DGND Pin=U7-3
+Added Pin To Net: NetName=NetR34_1 Pin=U7-4
+Added Pin To Net: NetName=NetF1_2 Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=NetF2_2 Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-8
+Added Pin To Net: NetName=OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-2
+Added Pin To Net: NetName=OSC32_OUT Pin=Y2-1
+Added Pin To Net: NetName=OSC32_IN Pin=Y2-2
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C1 2.2米F/10V
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C2 220nF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C3 470pF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C4 3.3米F/400V
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C5 100米F
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C6 0.1米F
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C7 33nF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C8 33nF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C9 0.1米F
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C10 33nF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C11 0.1米F
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C12 6pF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C13 20pF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C14 20pF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C15 6pF
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C16 1000米F/400V
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C17 104
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C18 104
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component C19 0.1米F
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component D1 1N4007
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component D2 1N4007
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component D3 US1J(600V 1A)
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component D4 POWER
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component D5 IN4148
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component D6 
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component F1 1.1A  赻閥葩悵玸佪
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component F2 1.1A  赻閥葩悵玸佪
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component K1 Relay-5V
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component key1 SW
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component L1 1mH
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component LR1 嫖鏗萇郯
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component LS1 BUZZER 5V
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component M1 ACDC_THX208based
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component M2 ESP-01&01S Module
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component P1 Header
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component P2 Header
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component P3 Header 9
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component P4 Header 4
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component Q1 S8050
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component Q2 S8050
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R1 39次/1W
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R2 5.49K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R3 4.99K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R4 4.7K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R5 4.7K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R6 10K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R7 100
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R8 100
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R9 10K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R10 10K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R11 1K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R12 1.5K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R13 2m次/25A
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R14 1K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R15 Res2
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R16 0次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R17 470K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R18 470K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R19 470K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R20 470K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R21 1K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R22 1K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R23 10K次 1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R24 10K次 1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R25 2.2K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R26 1K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R27 2.2K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R28 MF52-10K   3950 1ㄔ
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R29 0次/1W
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R30 0次/1W
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R31 10K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R32 10K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R33 1K次,1%
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R34 2.2K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R35 0次/1W
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R36 4.7K
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component R37 4.7K次
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U1 MP150
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U2 STM32F103C8T6
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U3 HLW8032
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U4 PC817
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U5 PC817
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U6 LM1117-3.3V
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component U7 PC817
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component USB1 2_USB
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component Y1 8M
+Added Member To Class: ClassName=STM32_HLW8032_ESP8266 Member=Component Y2 32.768K
+Added Room: Name=STM32_HLW8032_ESP8266

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MCUGND Pin=Y2-GND
+Removed Pin From Net: NetName=MCUGND Pin=Y2-GND
+Added Room: Name=STM32_HLW8032_ESP8266
+Removed Pin From Net: NetName=MCUGND Pin=C9-1
+Added Pin To Net: NetName=DGND Pin=C9-1
+Removed Pin From Net: NetName=AC220V-L Pin=K1-3
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Removed Pin From Net: NetName=NetK1_3 Pin=K1-4
+Added Pin To Net: NetName=AC220V-L Pin=K1-4
+Removed Pin From Net: NetName=MCUGND Pin=key1-1
+Added Pin To Net: NetName=DGND Pin=key1-1
