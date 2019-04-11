@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OSC32_IN Pin=C12-1
+Removed Pin From Net: NetName=DGND Pin=C12-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=C15-1
+Removed Pin From Net: NetName=DGND Pin=C15-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=Y2-1
+Removed Pin From Net: NetName=OSC32_IN Pin=Y2-2
+Removed Member From Class: ClassName=STM32_HLW8032_ESP8266 Member=C12
+Removed Member From Class: ClassName=STM32_HLW8032_ESP8266 Member=C15
+Removed Member From Class: ClassName=STM32_HLW8032_ESP8266 Member=Y2
