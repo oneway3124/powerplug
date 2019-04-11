@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\davwang\Desktop\powerplug\hardware\stm32_hlw8032_esp8266_190405\ÖÇÄÜ²å×ù2019_1_7.PcbDoc
+Date         : 2019/4/11
+Time         : 11:14:21
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 73.33%
+    Connections, 180
+    Connections routed, 132
+    Connections remaining, 48
+count : 4
