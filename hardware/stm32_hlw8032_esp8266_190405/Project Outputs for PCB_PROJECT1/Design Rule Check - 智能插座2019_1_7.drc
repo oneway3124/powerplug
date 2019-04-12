@@ -1,0 +1,212 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\davwang\Desktop\powerplug\hardware\stm32_hlw8032_esp8266_190405\ÖÇÄÜ²å×ù2019_1_7.PcbDoc
+Date     : 2019/4/12
+Time     : 10:11:37
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: Top Layer-No Net In net DGND On Top Layer
+   Polygon named: NONET_L01_P010 In net MCUGND On Top Layer
+   Polygon named: Keep-Out Layer-No Net In net MCUGND On Top Layer
+   Polygon named: Keep-Out Layer-No Net In net MCUGND On Top Layer
+   Polygon named: Keep-Out Layer-No Net In net MCUGND On Top Layer
+   Polygon named: Bottom Layer-No Net In net DGND On Bottom Layer
+   Polygon named: Bottom Layer-No Net 1 In net DGND On Bottom Layer
+   Polygon named: Bottom Layer-No Net 2 In net DGND On Bottom Layer
+   Polygon named: Bottom Layer-DGND 1 In net DGND On Bottom Layer
+   Polygon named: Keep-Out Layer-No Net In net MCUGND On Bottom Layer
+   Polygon named: Keep-Out Layer-No Net In net MCUGND On Bottom Layer
+   Polygon named: Keep-Out Layer-No Net In net MCUGND On Bottom Layer
+   Polygon named: NONET_L02_P020 In net MCUGND On Bottom Layer
+
+Processing Rule : Clearance Constraint (Gap=12mil) (All),(All)
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Pad U2-1(3305.553mil,3628.269mil) on Top Layer And Track (3356.733mil,3559.613mil)(3356.733mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-10(3305.553mil,3451.103mil) on Top Layer And Pad U2-11(3305.553mil,3431.419mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-10(3305.553mil,3451.103mil) on Top Layer And Pad U2-9(3305.553mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (10.838mil < 12mil) Between Pad U2-10(3305.553mil,3451.103mil) on Top Layer And Track (3263.302mil,3430.816mil)(3304.95mil,3430.816mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-10(3305.553mil,3451.103mil) on Top Layer And Track (3304.95mil,3430.816mil)(3305.553mil,3431.419mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-10(3305.553mil,3451.103mil) on Top Layer And Track (3305.553mil,3470.789mil)(3514.211mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-11(3305.553mil,3431.419mil) on Top Layer And Pad U2-12(3305.553mil,3411.733mil) on Top Layer 
+   Violation between Clearance Constraint: (10.001mil < 12mil) Between Pad U2-11(3305.553mil,3431.419mil) on Top Layer And Track (3290mil,3365mil)(3290mil,3410mil) on Top Layer 
+   Violation between Clearance Constraint: (8.309mil < 12mil) Between Pad U2-12(3305.553mil,3411.733mil) on Top Layer And Track (3257.874mil,3302.126mil)(3257.874mil,3425.387mil) on Top Layer 
+   Violation between Clearance Constraint: (9.635mil < 12mil) Between Pad U2-12(3305.553mil,3411.733mil) on Top Layer And Track (3263.302mil,3430.816mil)(3304.95mil,3430.816mil) on Top Layer 
+   Violation between Clearance Constraint: (9.635mil < 12mil) Between Pad U2-12(3305.553mil,3411.733mil) on Top Layer And Track (3304.95mil,3430.816mil)(3305.553mil,3431.419mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-13(3356.733mil,3360.553mil) on Top Layer And Pad U2-14(3376.419mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10mil < 12mil) Between Pad U2-14(3376.419mil,3360.553mil) on Top Layer And Track (3342.466mil,3360.553mil)(3355.002mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-17(3435.475mil,3360.553mil) on Top Layer And Pad U2-18(3455.159mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-17(3435.475mil,3360.553mil) on Top Layer And Track (3455.159mil,3296.89mil)(3455.159mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-18(3455.159mil,3360.553mil) on Top Layer And Pad U2-19(3474.845mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-19(3474.845mil,3360.553mil) on Top Layer And Pad U2-20(3494.529mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-19(3474.845mil,3360.553mil) on Top Layer And Track (3455.159mil,3296.89mil)(3455.159mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-19(3474.845mil,3360.553mil) on Top Layer And Track (3494.529mil,3304.529mil)(3494.529mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Pad U2-2(3305.553mil,3608.585mil) on Top Layer And Track (3356.733mil,3559.613mil)(3356.733mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-20(3494.529mil,3360.553mil) on Top Layer And Pad U2-21(3514.215mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-20(3494.529mil,3360.553mil) on Top Layer And Track (3514.215mil,3360.553mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (8.661mil < 12mil) Between Pad U2-20(3494.529mil,3360.553mil) on Top Layer And Track (3514.608mil,3280.392mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-21(3514.215mil,3360.553mil) on Top Layer And Pad U2-22(3533.899mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-21(3514.215mil,3360.553mil) on Top Layer And Track (3494.529mil,3304.529mil)(3494.529mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.267mil < 12mil) Between Pad U2-21(3514.215mil,3360.553mil) on Top Layer And Track (3533.899mil,3301.101mil)(3533.899mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-22(3533.899mil,3360.553mil) on Top Layer And Pad U2-23(3553.585mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 12mil) Between Pad U2-22(3533.899mil,3360.553mil) on Top Layer And Track (3514.215mil,3360.553mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 12mil) Between Pad U2-22(3533.899mil,3360.553mil) on Top Layer And Track (3514.608mil,3280.392mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (10.174mil < 12mil) Between Pad U2-22(3533.899mil,3360.553mil) on Top Layer And Track (3553.585mil,3360.553mil)(3553.585mil,3410mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-23(3553.585mil,3360.553mil) on Top Layer And Pad U2-24(3573.269mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-23(3553.585mil,3360.553mil) on Top Layer And Track (3533.899mil,3301.101mil)(3533.899mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-23(3553.585mil,3360.553mil) on Top Layer And Track (3573.269mil,3286.731mil)(3573.269mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-23(3553.585mil,3360.553mil) on Top Layer And Track (3573.269mil,3360.553mil)(3573.269mil,3418.511mil) on Top Layer 
+   Violation between Clearance Constraint: (10.172mil < 12mil) Between Pad U2-24(3573.269mil,3360.553mil) on Top Layer And Track (3553.585mil,3360.553mil)(3553.585mil,3410mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-25(3624.451mil,3411.733mil) on Top Layer And Pad U2-26(3624.451mil,3431.419mil) on Top Layer 
+   Violation between Clearance Constraint: (11.812mil < 12mil) Between Pad U2-25(3624.451mil,3411.733mil) on Top Layer And Track (3573.269mil,3360.553mil)(3573.269mil,3418.511mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-26(3624.451mil,3431.419mil) on Top Layer And Track (3624.451mil,3411.733mil)(3624.606mil,3411.733mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-26(3624.451mil,3431.419mil) on Top Layer And Track (3624.606mil,3411.733mil)(3625mil,3411.339mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-26(3624.451mil,3431.419mil) on Top Layer And Track (3625mil,3340mil)(3625mil,3411.339mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-27(3624.451mil,3451.103mil) on Top Layer And Pad U2-28(3624.451mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-27(3624.451mil,3451.103mil) on Top Layer And Track (3550mil,3470.789mil)(3624.451mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-28(3624.451mil,3470.789mil) on Top Layer And Pad U2-29(3624.451mil,3490.473mil) on Top Layer 
+   Violation between Clearance Constraint: (9.172mil < 12mil) Between Pad U2-28(3624.451mil,3470.789mil) on Top Layer And Track (3624.451mil,3490.473mil)(3674.527mil,3490.473mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-29(3624.451mil,3490.473mil) on Top Layer And Pad U2-30(3624.451mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-29(3624.451mil,3490.473mil) on Top Layer And Track (3550mil,3470.789mil)(3624.451mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-29(3624.451mil,3490.473mil) on Top Layer And Track (3624.451mil,3510.159mil)(3689.841mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Pad U2-3(3305.553mil,3588.899mil) on Top Layer And Track (3356.733mil,3559.613mil)(3356.733mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-30(3624.451mil,3510.159mil) on Top Layer And Pad U2-31(3624.451mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (9.174mil < 12mil) Between Pad U2-30(3624.451mil,3510.159mil) on Top Layer And Track (3624.451mil,3490.473mil)(3674.527mil,3490.473mil) on Top Layer 
+   Violation between Clearance Constraint: (8.267mil < 12mil) Between Pad U2-30(3624.451mil,3510.159mil) on Top Layer And Track (3624.451mil,3529.843mil)(3705.157mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-31(3624.451mil,3529.843mil) on Top Layer And Pad U2-32(3624.451mil,3549.529mil) on Top Layer 
+   Violation between Clearance Constraint: (8.267mil < 12mil) Between Pad U2-31(3624.451mil,3529.843mil) on Top Layer And Track (3624.451mil,3510.159mil)(3689.841mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-32(3624.451mil,3549.529mil) on Top Layer And Track (3624.451mil,3529.843mil)(3705.157mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-33(3624.451mil,3569.215mil) on Top Layer And Pad U2-34(3624.451mil,3588.899mil) on Top Layer 
+   Violation between Clearance Constraint: (8.267mil < 12mil) Between Pad U2-33(3624.451mil,3569.215mil) on Top Layer And Track (3624.451mil,3588.899mil)(3680.631mil,3588.899mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-34(3624.451mil,3588.899mil) on Top Layer And Pad U2-35(3624.451mil,3608.585mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-35(3624.451mil,3608.585mil) on Top Layer And Pad U2-36(3624.451mil,3628.269mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-35(3624.451mil,3608.585mil) on Top Layer And Track (3533.269mil,3628.269mil)(3624.451mil,3628.269mil) on Top Layer 
+   Violation between Clearance Constraint: (8.269mil < 12mil) Between Pad U2-35(3624.451mil,3608.585mil) on Top Layer And Track (3624.451mil,3588.899mil)(3680.631mil,3588.899mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-37(3573.269mil,3679.451mil) on Top Layer And Pad U2-38(3553.585mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (11.812mil < 12mil) Between Pad U2-37(3573.269mil,3679.451mil) on Top Layer And Track (3533.269mil,3628.269mil)(3624.451mil,3628.269mil) on Top Layer 
+   Violation between Clearance Constraint: (11.812mil < 12mil) Between Pad U2-38(3553.585mil,3679.451mil) on Top Layer And Track (3533.269mil,3628.269mil)(3624.451mil,3628.269mil) on Top Layer 
+   Violation between Clearance Constraint: (9.633mil < 12mil) Between Pad U2-38(3553.585mil,3679.451mil) on Top Layer And Track (3572.666mil,3680.053mil)(3572.666mil,3832.373mil) on Top Layer 
+   Violation between Clearance Constraint: (9.633mil < 12mil) Between Pad U2-38(3553.585mil,3679.451mil) on Top Layer And Track (3572.666mil,3680.053mil)(3573.269mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (11.821mil < 12mil) Between Pad U2-39(3533.899mil,3679.451mil) on Top Layer And Track (3524.211mil,3619.211mil)(3533.269mil,3628.269mil) on Top Layer 
+   Violation between Clearance Constraint: (11.812mil < 12mil) Between Pad U2-39(3533.899mil,3679.451mil) on Top Layer And Track (3533.269mil,3628.269mil)(3624.451mil,3628.269mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-4(3305.553mil,3569.215mil) on Top Layer And Pad U2-5(3305.553mil,3549.529mil) on Top Layer 
+   Violation between Clearance Constraint: (10.174mil < 12mil) Between Pad U2-4(3305.553mil,3569.215mil) on Top Layer And Track (3225.425mil,3549.529mil)(3305.379mil,3549.529mil) on Top Layer 
+   Violation between Clearance Constraint: (10mil < 12mil) Between Pad U2-4(3305.553mil,3569.215mil) on Top Layer And Track (3305.379mil,3549.529mil)(3305.553mil,3549.703mil) on Top Layer 
+   Violation between Clearance Constraint: (10mil < 12mil) Between Pad U2-4(3305.553mil,3569.215mil) on Top Layer And Track (3305.553mil,3549.529mil)(3305.553mil,3549.703mil) on Top Layer 
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Pad U2-4(3305.553mil,3569.215mil) on Top Layer And Track (3356.733mil,3559.613mil)(3356.733mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-40(3514.215mil,3679.451mil) on Top Layer And Pad U2-41(3494.529mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-40(3514.215mil,3679.451mil) on Top Layer And Track (3494.529mil,3679.451mil)(3494.529mil,3737.065mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-41(3494.529mil,3679.451mil) on Top Layer And Pad U2-42(3474.845mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-41(3494.529mil,3679.451mil) on Top Layer And Track (3474.845mil,3605.155mil)(3474.845mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-42(3474.845mil,3679.451mil) on Top Layer And Pad U2-43(3455.159mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.396mil < 12mil) Between Pad U2-42(3474.845mil,3679.451mil) on Top Layer And Track (3455mil,3605mil)(3455mil,3679.292mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-42(3474.845mil,3679.451mil) on Top Layer And Track (3455mil,3679.292mil)(3455.159mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-42(3474.845mil,3679.451mil) on Top Layer And Track (3494.529mil,3679.451mil)(3494.529mil,3737.065mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-43(3455.159mil,3679.451mil) on Top Layer And Pad U2-44(3435.475mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-43(3455.159mil,3679.451mil) on Top Layer And Track (3435.475mil,3679.451mil)(3435.475mil,3882.674mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-43(3455.159mil,3679.451mil) on Top Layer And Track (3474.845mil,3605.155mil)(3474.845mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-44(3435.475mil,3679.451mil) on Top Layer And Pad U2-45(3415.789mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.076mil < 12mil) Between Pad U2-44(3435.475mil,3679.451mil) on Top Layer And Track (3455mil,3605mil)(3455mil,3679.292mil) on Top Layer 
+   Violation between Clearance Constraint: (10.076mil < 12mil) Between Pad U2-44(3435.475mil,3679.451mil) on Top Layer And Track (3455mil,3679.292mil)(3455.159mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-45(3415.789mil,3679.451mil) on Top Layer And Track (3435.475mil,3679.451mil)(3435.475mil,3882.674mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-46(3396.105mil,3679.451mil) on Top Layer And Pad U2-47(3376.419mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-47(3376.419mil,3679.451mil) on Top Layer And Pad U2-48(3356.733mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-47(3376.419mil,3679.451mil) on Top Layer And Track (3356.733mil,3559.613mil)(3356.733mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-5(3305.553mil,3549.529mil) on Top Layer And Pad U2-6(3305.553mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-5(3305.553mil,3549.529mil) on Top Layer And Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-6(3305.553mil,3529.843mil) on Top Layer And Pad U2-7(3305.553mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (10.174mil < 12mil) Between Pad U2-6(3305.553mil,3529.843mil) on Top Layer And Track (3225.425mil,3549.529mil)(3305.379mil,3549.529mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-6(3305.553mil,3529.843mil) on Top Layer And Track (3250.159mil,3510.159mil)(3305.553mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (10.174mil < 12mil) Between Pad U2-6(3305.553mil,3529.843mil) on Top Layer And Track (3305.379mil,3549.529mil)(3305.553mil,3549.703mil) on Top Layer 
+   Violation between Clearance Constraint: (10.174mil < 12mil) Between Pad U2-6(3305.553mil,3529.843mil) on Top Layer And Track (3305.553mil,3549.529mil)(3305.553mil,3549.703mil) on Top Layer 
+   Violation between Clearance Constraint: (8.662mil < 12mil) Between Pad U2-7(3305.553mil,3510.159mil) on Top Layer And Pad U2-8(3305.553mil,3490.473mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-7(3305.553mil,3510.159mil) on Top Layer And Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (8.66mil < 12mil) Between Pad U2-8(3305.553mil,3490.473mil) on Top Layer And Pad U2-9(3305.553mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (10.237mil < 12mil) Between Pad U2-8(3305.553mil,3490.473mil) on Top Layer And Track (3250.159mil,3510.159mil)(3305.553mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (10.235mil < 12mil) Between Pad U2-8(3305.553mil,3490.473mil) on Top Layer And Track (3305.553mil,3470.789mil)(3514.211mil,3470.789mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3213.755mil,3425mil)(3218.441mil,3429.686mil) on Top Layer And Track (3238.189mil,3293.972mil)(3238.189mil,3498.189mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3218.441mil,3429.686mil)(3218.441mil,3522.733mil) on Top Layer And Track (3238.189mil,3293.972mil)(3238.189mil,3498.189mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3218.441mil,3429.686mil)(3218.441mil,3522.733mil) on Top Layer And Track (3238.189mil,3498.189mil)(3250.159mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (11.873mil < 12mil) Between Track (3218.441mil,3522.733mil)(3225.425mil,3529.718mil) on Top Layer And Track (3218.551mil,3556.464mil)(3225.425mil,3549.591mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3218.441mil,3522.733mil)(3225.425mil,3529.718mil) on Top Layer And Track (3225.425mil,3549.529mil)(3305.379mil,3549.529mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3218.551mil,3556.464mil)(3225.425mil,3549.591mil) on Top Layer And Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (11.749mil < 12mil) Between Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer And Track (3225.425mil,3549.529mil)(3305.379mil,3549.529mil) on Top Layer 
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer And Track (3238.189mil,3498.189mil)(3250.159mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer And Track (3250.159mil,3510.159mil)(3305.553mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (11.749mil < 12mil) Between Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer And Track (3305.379mil,3549.529mil)(3305.553mil,3549.703mil) on Top Layer 
+   Violation between Clearance Constraint: (11.749mil < 12mil) Between Track (3225.425mil,3529.843mil)(3305.553mil,3529.843mil) on Top Layer And Track (3305.553mil,3549.529mil)(3305.553mil,3549.703mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3238.189mil,3293.972mil)(3238.189mil,3498.189mil) on Top Layer And Track (3257.874mil,3302.126mil)(3257.874mil,3425.387mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3238.189mil,3293.972mil)(3238.189mil,3498.189mil) on Top Layer And Track (3257.874mil,3302.126mil)(3265mil,3295mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3238.189mil,3293.972mil)(3238.189mil,3498.189mil) on Top Layer And Track (3257.874mil,3425.387mil)(3263.302mil,3430.816mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3238.189mil,3293.972mil)(3256.846mil,3275.315mil) on Top Layer And Track (3257.874mil,3302.126mil)(3257.874mil,3425.387mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3238.189mil,3293.972mil)(3256.846mil,3275.315mil) on Top Layer And Track (3257.874mil,3302.126mil)(3265mil,3295mil) on Top Layer 
+   Violation between Clearance Constraint: (11.811mil < 12mil) Between Track (3238.189mil,3293.972mil)(3256.846mil,3275.315mil) on Top Layer And Track (3265mil,3295mil)(3321.535mil,3295mil) on Top Layer 
+   Violation between Clearance Constraint: (10.973mil < 12mil) Between Track (3263.302mil,3430.816mil)(3304.95mil,3430.816mil) on Top Layer And Track (3290mil,3365mil)(3290mil,3410mil) on Top Layer 
+   Violation between Clearance Constraint: (11.652mil < 12mil) Between Track (3435.475mil,3679.451mil)(3435.475mil,3882.674mil) on Top Layer And Track (3455mil,3605mil)(3455mil,3679.292mil) on Top Layer 
+   Violation between Clearance Constraint: (11.652mil < 12mil) Between Track (3435.475mil,3679.451mil)(3435.475mil,3882.674mil) on Top Layer And Track (3455mil,3679.292mil)(3455.159mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (11.972mil < 12mil) Between Track (3440mil,3590mil)(3455mil,3605mil) on Top Layer And Track (3474.845mil,3605.155mil)(3474.845mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (11.972mil < 12mil) Between Track (3440mil,3590mil)(3455mil,3605mil) on Top Layer And Track (3474.845mil,3605.155mil)(3485mil,3595mil) on Top Layer 
+   Violation between Clearance Constraint: (11.971mil < 12mil) Between Track (3455mil,3605mil)(3455mil,3679.292mil) on Top Layer And Track (3474.845mil,3605.155mil)(3474.845mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (11.971mil < 12mil) Between Track (3455mil,3605mil)(3455mil,3679.292mil) on Top Layer And Track (3474.845mil,3605.155mil)(3485mil,3595mil) on Top Layer 
+   Violation between Clearance Constraint: (11.812mil < 12mil) Between Track (3455mil,3679.292mil)(3455.159mil,3679.451mil) on Top Layer And Track (3474.845mil,3605.155mil)(3474.845mil,3679.451mil) on Top Layer 
+   Violation between Clearance Constraint: (11.81mil < 12mil) Between Track (3474.845mil,3605.155mil)(3474.845mil,3679.451mil) on Top Layer And Track (3494.529mil,3679.451mil)(3494.529mil,3737.065mil) on Top Layer 
+   Violation between Clearance Constraint: (10.236mil < 12mil) Between Track (3485mil,3295mil)(3494.529mil,3304.529mil) on Top Layer And Track (3514.608mil,3280.392mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (9.844mil < 12mil) Between Track (3494.529mil,3304.529mil)(3494.529mil,3360.553mil) on Top Layer And Track (3514.215mil,3360.553mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (10.236mil < 12mil) Between Track (3494.529mil,3304.529mil)(3494.529mil,3360.553mil) on Top Layer And Track (3514.608mil,3280.392mil)(3514.608mil,3360.16mil) on Top Layer 
+   Violation between Clearance Constraint: (7.48mil < 12mil) Between Track (3514.215mil,3360.553mil)(3514.608mil,3360.16mil) on Top Layer And Track (3533.899mil,3301.101mil)(3533.899mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (7.48mil < 12mil) Between Track (3514.608mil,3280.392mil)(3514.608mil,3360.16mil) on Top Layer And Track (3533.899mil,3301.101mil)(3533.899mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (7.48mil < 12mil) Between Track (3514.608mil,3280.392mil)(3514.608mil,3360.16mil) on Top Layer And Track (3533.899mil,3301.101mil)(3550mil,3285mil) on Top Layer 
+   Violation between Clearance Constraint: (9.78mil < 12mil) Between Track (3533.899mil,3301.101mil)(3533.899mil,3360.553mil) on Top Layer And Track (3553.585mil,3360.553mil)(3553.585mil,3410mil) on Top Layer 
+   Violation between Clearance Constraint: (10.922mil < 12mil) Between Track (3533.899mil,3301.101mil)(3533.899mil,3360.553mil) on Top Layer And Via (3515mil,3280mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (10.879mil < 12mil) Between Track (3533.899mil,3301.101mil)(3550mil,3285mil) on Top Layer And Via (3515mil,3280mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (11.747mil < 12mil) Between Track (3550mil,3413.585mil)(3553.585mil,3410mil) on Top Layer And Track (3573.269mil,3360.553mil)(3573.269mil,3418.511mil) on Top Layer 
+   Violation between Clearance Constraint: (10.747mil < 12mil) Between Track (3550mil,3470.789mil)(3624.451mil,3470.789mil) on Top Layer And Track (3624.451mil,3490.473mil)(3674.527mil,3490.473mil) on Top Layer 
+   Violation between Clearance Constraint: (11.747mil < 12mil) Between Track (3553.585mil,3360.553mil)(3553.585mil,3410mil) on Top Layer And Track (3573.269mil,3286.731mil)(3573.269mil,3360.553mil) on Top Layer 
+   Violation between Clearance Constraint: (11.747mil < 12mil) Between Track (3553.585mil,3360.553mil)(3553.585mil,3410mil) on Top Layer And Track (3573.269mil,3360.553mil)(3573.269mil,3418.511mil) on Top Layer 
+   Violation between Clearance Constraint: (8.78mil < 12mil) Between Track (3624.451mil,3490.473mil)(3674.527mil,3490.473mil) on Top Layer And Track (3624.451mil,3510.159mil)(3689.841mil,3510.159mil) on Top Layer 
+   Violation between Clearance Constraint: (7.873mil < 12mil) Between Track (3624.451mil,3510.159mil)(3689.841mil,3510.159mil) on Top Layer And Track (3624.451mil,3529.843mil)(3705.157mil,3529.843mil) on Top Layer 
+   Violation between Clearance Constraint: (8.78mil < 12mil) Between Track (3624.451mil,3510.159mil)(3689.841mil,3510.159mil) on Top Layer And Track (3674.527mil,3490.473mil)(3683.347mil,3481.653mil) on Top Layer 
+   Violation between Clearance Constraint: (7.873mil < 12mil) Between Track (3624.451mil,3529.843mil)(3705.157mil,3529.843mil) on Top Layer And Track (3689.841mil,3510.159mil)(3703.189mil,3496.811mil) on Top Layer 
+   Violation between Clearance Constraint: (8.937mil < 12mil) Between Track (3674.527mil,3490.473mil)(3683.347mil,3481.653mil) on Top Layer And Track (3703.189mil,3376.811mil)(3703.189mil,3496.811mil) on Top Layer 
+   Violation between Clearance Constraint: (8.937mil < 12mil) Between Track (3683.347mil,3355mil)(3683.347mil,3481.653mil) on Top Layer And Track (3703.189mil,3376.811mil)(3703.189mil,3496.811mil) on Top Layer 
+   Violation between Clearance Constraint: (8.937mil < 12mil) Between Track (3683.347mil,3355mil)(3683.347mil,3481.653mil) on Top Layer And Track (3703.189mil,3376.811mil)(3715mil,3365mil) on Top Layer 
+   Violation between Clearance Constraint: (10mil < 12mil) Between Track (3689.841mil,3510.159mil)(3703.189mil,3496.811mil) on Top Layer And Track (3725mil,3399.683mil)(3725mil,3510mil) on Top Layer 
+   Violation between Clearance Constraint: (10mil < 12mil) Between Track (3703.189mil,3376.811mil)(3703.189mil,3496.811mil) on Top Layer And Track (3725mil,3399.683mil)(3725mil,3510mil) on Top Layer 
+   Violation between Clearance Constraint: (10mil < 12mil) Between Track (3703.189mil,3376.811mil)(3703.189mil,3496.811mil) on Top Layer And Track (3725mil,3399.683mil)(3735mil,3389.683mil) on Top Layer 
+Rule Violations :151
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad D1-2(2692.361mil,4403.622mil) on Top Layer And Track (2740mil,4400mil)(2740mil,4620mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DGND Between Via (3460mil,3210.317mil) from Top Layer to Bottom Layer And Pad R6-1(3539.999mil,3210.314mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad U2-35(3624.451mil,3608.585mil) on Top Layer And Via (3630.001mil,3695mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad U2-8(3305.553mil,3490.473mil) on Top Layer And Via (3385mil,3515mil) from Top Layer to Bottom Layer 
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=308.11mil) (Preferred=19.685mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-0(2212.323mil,2595mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-0(2212.323mil,4583.189mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (1574.803mil > 100mil) Pad Free-0(3175.552mil,4085mil) on Multi-Layer Actual Slot Hole Width = 1574.803mil
+   Violation between Hole Size Constraint: (500mil > 100mil) Pad Free-0(4155.533mil,3868.903mil) on Multi-Layer Actual Slot Hole Width = 500mil
+   Violation between Hole Size Constraint: (1300mil > 100mil) Pad Free-0(4400mil,2515mil) on Multi-Layer Actual Slot Hole Width = 1300mil
+   Violation between Hole Size Constraint: (700mil > 100mil) Pad Free-0(4400mil,3563.49mil) on Multi-Layer Actual Slot Hole Width = 700mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-0(5027.283mil,2595mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-0(5027.283mil,4583.189mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad USB1-0(2318.11mil,3542.598mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad USB1-0(2318.11mil,3810.315mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad USB1-0(2845.669mil,3542.598mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad USB1-0(2845.669mil,3810.315mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+Rule Violations :12
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 167
+Waived Violations : 0
+Time Elapsed        : 00:00:00
