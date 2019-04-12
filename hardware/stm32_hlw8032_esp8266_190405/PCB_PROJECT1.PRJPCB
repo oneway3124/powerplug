@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GCYHDBMF
 
 [Document2]
-DocumentPath=ÖÇÄÜ²å×ù2019_1_7.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HKOQQNED
-
-[Document3]
 DocumentPath=PCB_PROJECT1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,6 +70,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document3]
+DocumentPath=ÖÇÄÜ²å×ù2019_4_12.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HKOQQNED
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_PROJECT1\Design Rule Check - ÖÇÄÜ²å×ù2019_1_7.html
@@ -250,7 +250,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon TS200 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

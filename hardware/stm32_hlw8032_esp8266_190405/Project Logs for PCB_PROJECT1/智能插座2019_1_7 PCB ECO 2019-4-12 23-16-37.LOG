@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AC220V-L Pin=K1-3
+Added Pin To Net: NetName=L_OUT Pin=P1-2
+Added Pin To Net: NetName=L_LINE Pin=K1-3
+Added Net: Name=L_LINE
